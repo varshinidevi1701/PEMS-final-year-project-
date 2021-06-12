@@ -1,0 +1,2 @@
+# PEMS-final-year-project-
+PEMS Stands for Penta Element monitoring system designed for cultivation purpose.Main objective of the project is to analyse the nature elements by using array of sensors. To increase the quality of crops. Since it is Beginner friendly , PEMS makes users to cultivate quality crops and understand how nature helps in cultivation. This project is the implementation of IoT in cultivation. The  sensor used are rain detection sensor, soil moisture sensor, humidity sensor,  temperature sensor, air flow sensors.
